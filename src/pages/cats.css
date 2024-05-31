@@ -1,0 +1,8 @@
+.painted-background {
+    background-color: #ffcc00; /* Choose your desired background color */
+    padding: 10px 20px; /* Add padding to create space around the text */
+    border-radius: 5px; /* Add rounded corners */
+    display: inline-block; /* Ensure the background only covers the text */
+    margin-bottom: 10px; /* Add margin to separate from the next element */
+  }
+  
